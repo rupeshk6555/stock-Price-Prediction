@@ -21,7 +21,7 @@ Stock prediction app using Streamlit and Facebook prophet
 <br>
 
 
-<h3> App link: https://stock-predict-app.herokuapp.com/ </h3>
+
 
 <h3> FB Prophet Docs: https://facebook.github.io/prophet/docs/quick_start.html </h3>
 
